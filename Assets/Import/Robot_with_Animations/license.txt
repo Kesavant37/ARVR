@@ -1,0 +1,11 @@
+Model Information:
+* title:	Robot with Animations
+* source:	https://sketchfab.com/3d-models/robot-with-animations-7cacf6b8fea7410d911f4596183216c7
+* author:	Robin_VdV (https://sketchfab.com/Robin_VdV)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Robot with Animations" (https://sketchfab.com/3d-models/robot-with-animations-7cacf6b8fea7410d911f4596183216c7) by Robin_VdV (https://sketchfab.com/Robin_VdV) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

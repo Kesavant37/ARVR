@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gothic chalice
+* source:	https://sketchfab.com/3d-models/gothic-chalice-3a6e31a795034157b43fdfa835ff1720
+* author:	Virtual Museums of Małopolska (https://sketchfab.com/WirtualneMuzeaMalopolski)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gothic chalice" (https://sketchfab.com/3d-models/gothic-chalice-3a6e31a795034157b43fdfa835ff1720) by Virtual Museums of Małopolska (https://sketchfab.com/WirtualneMuzeaMalopolski) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

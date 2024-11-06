@@ -1,0 +1,11 @@
+Model Information:
+* title:	Communication Bot
+* source:	https://sketchfab.com/3d-models/communication-bot-106a917972d54a31abd4b0eab7032dbd
+* author:	Valery Kharitonov (https://sketchfab.com/KJLOYH)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Communication Bot" (https://sketchfab.com/3d-models/communication-bot-106a917972d54a31abd4b0eab7032dbd) by Valery Kharitonov (https://sketchfab.com/KJLOYH) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
